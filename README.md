@@ -2,6 +2,7 @@
 
 This is the official submission for the FrontEnd Battle Round 1: Next-Gen AI Platform Speed Run.
 
+**Live Deployment:** [https://frontend-battle-ai.vercel.app/](https://frontend-battle-ai.vercel.app/)
 ## Overview
 A highly cohesive, premium SaaS landing page built for a Next-Gen AI automation platform. The architecture is engineered for maximum performance, featuring strict state isolation, native CSS motion choreography, and semantic HTML structure.
 
